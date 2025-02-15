@@ -18,11 +18,11 @@
 <h1></h1>
 <h2>Chat Features: Private chats group chats, online/offline status</h2>
 
-<img src="convers.png" alt="conversation" width="100%" />
+<img src="conver.png" alt="conversation" width="100%" />
 ###
 <h1></h1>
 <h2>AI Integration: ChatGPT and DALL-E-3 </h2>
-<img src="ai.png" alt="conversation" width="100%" />
+<img src="ai.png" alt="conversation ai" width="100%" />
 <img src="chatgptprove.png" alt="conversation" width="100%" />
 ###
 <h1></h1>
