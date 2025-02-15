@@ -4,7 +4,7 @@
 
 <h1>ChatWiz AI Project Overview</h1>
 
-<p>This project is about to ChatWiz, the ultimate chat app that combines human connection with advanced AI technology. Designed for seamless, secure, and smart communication, ChatGenius takes your messaging experience to the next level. Chat in real-time, enjoy AI-powered features like smart replies and language translation, and stay connected with your world, effortlessly. Ready for some fun? Dive into awesome, AI-powered conversations with ChatWiz. Tap the button below and let's get chatting with friends, family, and our super cool AI buddy!</p>
+<p>This project is about ChatWiz, the ultimate chat app that combines human connection with advanced AI technology. Designed for seamless, secure, and smart communication, ChatWiz takes your messaging experience to the next level. Chat in real-time, enjoy AI-powered features like smart replies and language translation, and stay connected with your world, effortlessly. Ready for some fun? Dive into awesome, AI-powered conversations with ChatWiz. Tap the button below and let's get chatting with friends, family, and our super cool AI buddy!</p>
 
 <h1></h1>
 <h1>HomeScreen</h1>
